@@ -1,5 +1,4 @@
 # blog-idea
-# blog-idea
 > 生活日志类小程序
 
 >>##后台采用 springboot + redis + mongodb
